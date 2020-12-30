@@ -1,2 +1,0 @@
-# EncryptionChallenge
- Code challenge
